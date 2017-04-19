@@ -1,0 +1,17 @@
+{
+  "name": "game",
+  "authors": [
+    "nvnjwl <nvnjwl3@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
